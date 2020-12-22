@@ -29,3 +29,6 @@ Note: After making updates to the native portion of the code (such as adding a n
 
 The above command will open Your android studio which should be installed before hand
 From there, you can use Android studio to run the app on a device or emulator.
+
+
+For more plugins: https://ionicframework.com/docs/native/
